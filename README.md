@@ -37,9 +37,7 @@ We benchmarked the following algorithms:
 
 ## License
 
-This project is licensed under the MIT License - see below for details:
+This project is licensed under the MIT License.
 
-```text
 MIT License
 
-```
