@@ -34,4 +34,12 @@ We benchmarked the following algorithms:
 3.  Open `Cardiovascular_Prediction.ipynb` and run all cells.
 
 ## Results
-The notebook concludes with a comparison bar chart of accuracy scores. **Random Forest** and **SVM** typically perform best on this dataset, achieving accuracy scores around ~73%.
+
+## License
+
+This project is licensed under the MIT License - see below for details:
+
+```text
+MIT License
+
+```
