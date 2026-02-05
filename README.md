@@ -35,6 +35,11 @@ We benchmarked the following algorithms:
 
 ## Results
 
+After training and evaluating multiple models, the **Support Vector Machine (SVM)** classifier emerged as the best performing model with an accuracy of **73.01%**.
+
+
+The SVM model demonstrates the most robust performance for this dataset and is recommended for predictive tasks.
+
 ## License
 
 This project is licensed under the MIT License.
